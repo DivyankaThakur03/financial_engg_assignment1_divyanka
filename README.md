@@ -48,7 +48,7 @@ To install the dependencies:
 
 
 2. **Execute the Main Script:**
-`python3 assignment1_divya.py`
+`python3 451_pa1_jump_start_v001.py`
 
 
 **Expected Output:** The script will print console diagnostics (CV scores, best hyperparameters, final metrics) and save three key diagnostic figures to the repository root:
