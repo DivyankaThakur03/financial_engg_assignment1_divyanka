@@ -9,8 +9,8 @@ This repository contains the complete codebase for data preparation, feature eng
 ### Asset and Target
 
 - **Asset:** NVIDIA Corporation (NVDA)
-- **Target:** Next-day log-return sign \(\text{if } r_{t+1} > 0 \text{, else } 0\)
-
+- **Target:** Next-day
+- 
 ### Key Technologies
 
 | Category | Tools |
@@ -43,8 +43,8 @@ To install the dependencies:
 
 1. **Clone the Repository:**
 
-`git clone <your_repo_url>.git`
-`cd assignment_1`
+- `git clone <your_repo_url>.git`
+- `cd assignment_1`
 
 
 2. **Execute the Main Script:**
