@@ -83,4 +83,4 @@ The entire pipeline is built around Polars for efficient data processing, which 
 
 ## Use of AI Tools
 
-AI assistance (ChatGPT/GPT-4) was primarily used for chceking the grammar and the word count of the report. All core  choices, feature design, and result interpretations were made by the author.
+AI assistance (ChatGPT/GPT-4) was primarily used for checking the word count of the report. All core  choices, feature design, and result interpretations were made by the author.
