@@ -36,19 +36,19 @@ You need a Python environment installed. The required packages are:
 
 To install the dependencies:
 
-pip install polars scikit-learn xgboost matplotlib seaborn
+`pip install polars scikit-learn xgboost matplotlib seaborn`
 
 
 ### Running the Code
 
 1. **Clone the Repository:**
 
-git clone <your_repo_url>.git
-cd assignment_1
+`git clone <your_repo_url>.git`
+`cd assignment_1`
 
 
 2. **Execute the Main Script:**
-python3 assignment1_divya.py
+`python3 assignment1_divya.py`
 
 
 **Expected Output:** The script will print console diagnostics (CV scores, best hyperparameters, final metrics) and save three key diagnostic figures to the repository root:
